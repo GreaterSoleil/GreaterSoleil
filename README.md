@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Nuclear</h1>
+<h1 align="center">Hi 👋 I'm Sun</h1>
 
 <h3 align="center">
 Python Enthusiast • Tech Explorer • Future Hardware Builder
